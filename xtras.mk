@@ -44,7 +44,6 @@ include vendor/xtras/BrightnessSlider/slider.mk
 
 # Xtended packages
 PRODUCT_PACKAGES += \
-    VinylMusicPlayer \
     GalleryPrebuilt \
     GBoardPrebuilt \
     SafetyHubPrebuilt \
